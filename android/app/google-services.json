@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803964394670",
+    "project_id": "noda-laundry-98475",
+    "storage_bucket": "noda-laundry-98475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803964394670:android:bb78509c0a938e8d34e13f",
+        "android_client_info": {
+          "package_name": "com.nodalaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803964394670-5ih56le66au4tl98ohsvdf72gl4sa650.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nodalaundry",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "803964394670-330ar535rb5jmji80mlk3ndh9ochq0hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlgi3pVfBz-ixoi4R23pikR2NS78cwwWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803964394670-330ar535rb5jmji80mlk3ndh9ochq0hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
